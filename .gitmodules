@@ -1,0 +1,3 @@
+[submodule "WoWrapper"]
+	path = WoWrapper
+	url = https://github.com/Tyr4el/WoWrapper.git
