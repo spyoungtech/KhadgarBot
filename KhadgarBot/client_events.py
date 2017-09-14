@@ -1,6 +1,4 @@
-import discord
-
-client = discord.Client()
+from KhadgarBot import client
 
 @client.event
 async def on_ready():
